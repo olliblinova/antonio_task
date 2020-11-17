@@ -15,4 +15,4 @@ while client_guess != comp_char:
     else:
         y = client_guess
         print(f'The char is between {x} and {y}\n')
-print(f'Cool! The char is {client_guess} You are totally right!')
+print(f'Cool! The char is {client_guess} You are absolutely right!')
